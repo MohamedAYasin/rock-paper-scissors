@@ -13,6 +13,8 @@ function playGame(play1, play2) {
         return "Player Two win";
     }
 }
+
+// Examples:
 console.log(playGame("paper", "scissors"));
 console.log(playGame("rock", "paper"));
 console.log(playGame("scissors", "scissors"));
